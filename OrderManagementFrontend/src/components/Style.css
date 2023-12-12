@@ -1,0 +1,90 @@
+.navbar_home a {
+  /* padding-left: 250px; */
+  text-decoration: none;
+  color: aqua;
+}
+
+.navbar_home a:hover {
+  color: rgb(251, 171, 219);
+}
+
+.navbar_home a:active {
+  color: rgb(255, 0, 247);
+}
+
+.navbar_cat a {
+  /* padding-left: 250px; */
+  text-decoration: none;
+  font-weight: 500;
+  color: rgb(6, 18, 18);
+}
+
+.navbar_cat a:hover {
+  color: rgb(238, 8, 154);
+}
+
+.Register {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  margin-bottom: 100px;
+}
+
+.Login {
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.Catogeries {
+  background-color: aliceblue;
+
+
+  /* padding-top: 1000px; */
+}
+
+/* .Cat1{
+  background-color: grey;
+  height:500px;
+  
+} */
+.cards {
+  border-radius: 15px;
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-bottom: 50px;
+  background-color: rgb(65, 65, 58);
+
+}
+
+.profile {
+  text-align: left;
+
+  margin-top: 100px;
+  margin-left: 150px;
+
+}
+
+.placeOrdercard {
+
+  margin-left: 100px;
+
+  margin-right: 100px;
+  padding-left: 470px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  background-color: rgb(242, 251, 217);
+}
+
+.ordersList {
+  margin-top: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+  /* padding: 20px; */
+  padding-left: 120px;
+  padding-top: 30px;
+  /* border: 10px solid rgb(113, 176, 248);
+  background-color: rgba(81, 75, 75, 0.897); */
+  /* border-radius: 10px; */
+}
